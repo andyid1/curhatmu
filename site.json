@@ -36,20 +36,6 @@
   },
   "items": [
     {
-      "id": "item-421336ee-8543-4649-bd26-26be9c127e4b",
-      "indent": 0,
-      "location": "pages/item-421336ee-8543-4649-bd26-26be9c127e4b/index.html",
-      "slug": "welcome",
-      "order": 0,
-      "parent": null,
-      "title": "Welcome to curhatmu",
-      "description": "",
-      "metadata": {
-        "created": 1745403198,
-        "updated": 1745403198
-      }
-    },
-    {
       "id": "item-f23083ab-1b05-4379-ad77-118ccb159c4c",
       "indent": 0,
       "location": "pages/item-f23083ab-1b05-4379-ad77-118ccb159c4c/index.html",
