@@ -2,24 +2,38 @@
   "id": "28e0746b-b8f8-4d6f-be35-02b2435e7ad1",
   "title": "curhatmu",
   "author": "",
-  "description": "",
+  "description": "own course",
   "license": "by-sa",
   "metadata": {
     "author": {},
     "site": {
-      "settings": {
-        "lang": "en"
-      },
       "name": "curhatmu",
-      "domain": null,
-      "created": 1745403198,
-      "updated": 1745403198
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true
+      },
+      "created": 1745403200,
+      "updated": 1745403200,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
     },
     "theme": {
-      "variables": {}
+      "variables": {
+        "icon": "av:library-add",
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+      }
     },
     "node": {
       "fields": {}
+    },
+    "build": {
+      "version": "10.0.2",
+      "structure": "course",
+      "type": "own"
     }
   },
   "items": [
